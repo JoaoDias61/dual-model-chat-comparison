@@ -1,0 +1,21 @@
+# Python
+backend/env/
+backend/.env
+backend/feedback.db
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# IDE
+.vscode/
+.idea/
+
+# Build artifacts
+*.tsbuildinfo
+
+# Claude
+.claude/
